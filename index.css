@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 1px;
+}
+
+.table-row input {
+    width: 175px;
+}
+
+.table-row button {
+    width: 20px;
+}
